@@ -26,7 +26,7 @@
 
 ### AI 펫 사용자 음성 인식 및 채팅 봇 구성도
 
-![AI%208dfe49b8e829475cbdd979722183fe8e/Untitled.png](AI%208dfe49b8e829475cbdd979722183fe8e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/66487706/83947722-cc350480-a853-11ea-81e7-6e7455cd9f59.png)
 
 ### [팀원 활동 기여도]
 | 이름 | 역할 |
