@@ -1,4 +1,5 @@
 # 사용자 맞춤형 AI 펫
+<img src="https://user-images.githubusercontent.com/66487706/83965098-1b2e7880-a8ec-11ea-904e-9baa7cf2c0bf.png" width="40%">
 
 ### :  사용자 맞춤형 인공지능 개인비서로, 상담을 주 기능으로 다룸.
 
@@ -28,7 +29,7 @@
 
 ![Untitled](https://user-images.githubusercontent.com/66487706/83947722-cc350480-a853-11ea-81e7-6e7455cd9f59.png)
 
-### [팀원 활동 기여도]
+### 팀원 활동 기여도
 | 이름 | 역할 |
 |---|---|
 | `김유진` | 개발언어,개발환경 조사 <br>PPT 제작 |
